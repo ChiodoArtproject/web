@@ -3,6 +3,7 @@ Url:
 https://chiodoartproject.github.io/web/
 # Guardar cambios
 ```
+
 aPRIRE NEL TERMINALE 
 git add .
 git commit
@@ -10,7 +11,7 @@ git push
 ```
 
 # Nueva imagen
-
+ricorda aggiungere alla pagina  da dove iniza a dove finisce h e p
 Repetir la ultima linea <img src...> y cambiar el nombre del fichero
 
 # Nueva pagina
