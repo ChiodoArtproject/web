@@ -3,6 +3,7 @@ Url:
 https://chiodoartproject.github.io/web/
 # Guardar cambios
 ```
+aPRIRE NEL TERMINALE 
 git add .
 git commit
 git push
