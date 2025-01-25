@@ -29,7 +29,7 @@ modificar index.html con los nuevos datos.
 
 
 Per centrare fai riferimento a questo codice css
-</title>
+```
 <style>
    .center {
         display: flex;
@@ -38,12 +38,12 @@ Per centrare fai riferimento a questo codice css
         margin: 10px 0;
     }
 </style>
-</head>
-
+```
 per centrare i paragrafi includili nel comando  <div class="center"> <paragrafo> </div> (lostesso per le h)
 per immagini <div class="center"> <img src=output/img/> </div>
 esempio
 
+```
 <div class="center">
 <p>
 Pajaros Cinciallegra en vidrio de colores en estilo Tiffany.
@@ -53,25 +53,26 @@ Pajaros Cinciallegra en vidrio de colores en estilo Tiffany.
 <div class="center">
     <img src="output/cinciallegra1.jpg" width=300 />
 </div>
-
+```
 
 Per ingrandire o diminuire il testo fai riferimento a questo codice css font size può essere usato solo oppure aggiunto a centrare sempre all'interno di <style> 
 
+```
 </title>
     <style>
     .large-text {
         font-size: 24px; /* Modifica la dimensione del font qui */
     }
 </style>
-<body>
+```
  
  dopo va inserito il comando class="large-text" all'interno di <p> prima del testo
  esempio
- </h1>
+```
 <p class="large-text">
 Pajaros Cinciallegra en vidrio de colores en estilo Tiffany.
 </p>
-
+```
 
 
 
