@@ -21,3 +21,8 @@ repetir parte de tranvia en index.html
 modificar el nuevo nombre con el titulo, descripcion e imagenes correctas
 modificar index.html con los nuevos datos.
 ```
+
+#Validator
+```
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fchiodoartproject.github.io%2Fweb%2F
+```
