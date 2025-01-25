@@ -1,0 +1,24 @@
+    .large-text {
+        font-size: 40px; /* Modifica la dimensione del font qui */
+    }
+
+   .center {
+        display: flex;
+        justify-content: center;
+        text-align: center; /* Centra il testo */
+        margin: 10px 0;
+    }
+
+ul {
+  list-style: none;
+}
+
+li {
+    vertical-align: middle;
+    display: inline-block; 
+    align-items: center;
+    justify-content: center;
+  margin-right: 10px; /* add spacing between items */
+}
+
+
