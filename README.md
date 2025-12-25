@@ -1,6 +1,13 @@
 # chiodoartproject
 Url: 
 https://chiodoartproject.github.io/web/
+
+# Antes de cambiar nada
+Recibir los cambios de otra gente:
+```
+git pull
+``` 
+
 # Guardar cambios
 ```
 
